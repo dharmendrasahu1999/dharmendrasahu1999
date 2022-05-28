@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" height="230" width="100%">
 <h1 align="center">Hi 👋, I'm Dharmendra Sahu</h1>
 <h3 align="center">A passionate Competitive Programmer as well as Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
