@@ -1,6 +1,6 @@
 <!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" height="230" width="100%"> -->
-<img src="https://drive.google.com/uc?export=view&id=1AgjK4EGokt-WyAWdMpPFv2FBxtQb_lyN" height="230" width="100%">
-
+<!-- <img src="https://drive.google.com/uc?export=view&id=1AgjK4EGokt-WyAWdMpPFv2FBxtQb_lyN" height="230" width="100%"> -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Dharmendra+Sahu....;Front+End+Web+Developer;Competitive+Programmer!&center=true&size=30">
 <h1 align="center">Hi 👋, I'm Dharmendra Sahu</h1>
 <h3 align="center">A passionate Competitive Programmer as well as Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
